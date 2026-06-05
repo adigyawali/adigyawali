@@ -52,11 +52,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/adigyawali/adigyawali/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
 
 ###
